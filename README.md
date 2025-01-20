@@ -1,1 +1,1 @@
-# UI-for-a-Video-Uploading-Platform
+# UI-for-a-Content-Creation-Platform
